@@ -1,0 +1,327 @@
+conversation 1:
+[
+    {
+      message: "Hi, I'm your personal stylist. What can I do for you?",
+      from: "bot",
+    },
+    {
+      message: "I need an outfit for a party",
+      from: "user",
+    },
+    {
+      message: "Sure, I can help you with that. What's the occasion?",
+      from: "bot",
+    },
+    {
+      message: "It's a birthday party",
+      from: "user",
+    },
+    {
+      message: "Awesome! What's your budget?",
+      from: "bot",
+    },
+    {
+      message: "My budget is $100",
+      from: "user",
+    },
+    {
+      message: "That's a good budget. Do you have any color preferences?",
+      from: "bot",
+    },
+    {
+      message: "I like blue",
+      from: "user",
+    },
+    {
+      message: "Great! I think you should search for, {blue,party,dress,under,100} ",
+      from: "bot",
+    },
+    {
+      message: "Can you show me some more outfits",
+      from: "user",
+    },
+    {
+      message: "Sure! Try searching for, {more,blue,party,dress,under,100} ",
+      from: "bot",
+    },
+
+  ]
+
+conversation 2:
+[
+    {
+      message: "Hi, I'm your personal stylist. What can I do for you?",
+      from: "bot",
+    },
+    {
+      message: "I want some outfit suggestions for diwali",
+      from: "user",
+    },
+    {
+      message: "Sound great, do you have any color preferences",
+      from: "bot",
+    },
+    {
+      message: "I want a black dress",
+      from: "user",
+    },
+    {
+      message: "Awesome! What's your budget?",
+      from: "bot",
+    },
+    {
+      message: "Nah, nothing as such",
+      from: "user",
+    },
+    {
+      message: "Great! I think you should search for, {black,diwali,dress} ",
+      from: "bot",
+    },
+  ]
+
+conversation 3:
+[
+    {
+      message: "Hi, I'm your personal stylist. What can I do for you?",
+      from: "bot",
+    },
+    {
+      message: "I need an a business outfit of black colour under 1000$ ",
+      from: "user",
+    },
+    {
+      message: "Great! I think you should search for, {black,business,outfit,under,1000} ",
+      from: "bot",
+    },
+    {
+      message: "Can you also show me some blue outfits",
+      from: "user",
+    },
+    {
+      message: "Great! I think you should search for, {blue,business,outfit,under,1000} ",
+      from: "bot",
+    },
+
+  ]
+conversation 4
+[
+    {
+      message: "Hi, I'm your personal stylist. What can I do for you?",
+      from: "bot",
+    },
+    {
+      message: "I need a casual outfit for a summer picnic.",
+      from: "user",
+    },
+    {
+      message: "Sure thing! Are you looking for something specific in terms of style or color?",
+      from: "bot",
+    },
+    {
+      message: "I prefer light and breezy colors like pastels.",
+      from: "user",
+    },
+    {
+      message: "Got it! Do you have a budget in mind?",
+      from: "bot",
+    },
+    {
+      message: "Around $50 would be ideal.",
+      from: "user",
+    },
+    {
+      message: "Great! I recommend searching for {pastel,summer,casual,outfit,under,50}.",
+      from: "bot",
+    },
+]
+conversation 5
+[
+    {
+      message: "Hi, I'm your personal stylist. What can I do for you?",
+      from: "bot",
+    },
+    {
+      message: "I have a formal event coming up and need a classy outfit.",
+      from: "user",
+    },
+    {
+      message: "Certainly! Are you interested in wearing a dress or a suit?",
+      from: "bot",
+    },
+    {
+      message: "I'd like a stylish pantsuit.",
+      from: "user",
+    },
+    {
+      message: "Sounds elegant! What's your budget?",
+      from: "bot",
+    },
+    {
+      message: "I can spend up to $200.",
+      from: "user",
+    },
+    {
+      message: "Perfect. Consider searching for {elegant,formal,pantsuit,under,200}.",
+      from: "bot",
+    },
+]
+conversation 6:
+[
+    {
+      message: "Hi, I'm your personal stylist. What can I do for you?",
+      from: "bot",
+    },
+    {
+      message: "I need some new workout clothes.",
+      from: "user",
+    },
+    {
+      message: "Sure thing! What type of workout do you mainly engage in?",
+      from: "bot",
+    },
+    {
+      message: "I'm into yoga and jogging.",
+      from: "user",
+    },
+    {
+      message: "Got it! Any specific colors or patterns you prefer?",
+      from: "bot",
+    },
+    {
+      message: "I like earthy tones and minimalistic designs.",
+      from: "user",
+    },
+    {
+      message: "Great! Look for {brown, green,,workout,clothes,yoga,jogging} ",
+      from: "bot",
+    },
+]
+conversation 7:
+
+[
+    {
+      message: "Hi, I'm your personal stylist. What can I do for you?",
+      from: "bot",
+    },
+    {
+      message: "I need some new lingerie.",
+      from: "user",
+    },
+    {
+      message: "Sure thing!  Do you have something in mind?",
+      from: "bot",
+    },
+    {
+      message: "I'm looking for black lingerie",
+      from: "user",
+    },
+    {
+      message: "Got it! Any specific colors or patterns you prefer?",
+      from: "bot",
+    },
+    {
+      message: "Not colour or patterns but I want to buy from H-M",
+      from: "user",
+    },
+    {
+      message: "Great! Look for {black,H-M,lingerie} ",
+      from: "bot",
+    },
+]
+
+conversation 8: 
+[
+    {
+      message: "Hi, I'm your personal stylist. What can I do for you?",
+      from: "bot",
+    },
+    {
+      message: "I'm going on a beach vacation and need some outfit suggestions.",
+      from: "user",
+    },
+    {
+      message: "Sounds exciting! What's your preferred beach style? Casual or more glamorous?",
+      from: "bot",
+    },
+    {
+      message: "I'm aiming for a mix of comfort and style, so something casual but chic.",
+      from: "user",
+    },
+    {
+      message: "Got it! Are there any specific colors or patterns you have in mind?",
+      from: "bot",
+    },
+    {
+      message: "I love tropical prints and vibrant colors.",
+      from: "user",
+    },
+    {
+      message: "Perfect! Look for {casual,chic,beach,tropical prints,red, pink} ",
+      from: "bot",
+    },
+]
+
+
+conversation 9:
+[
+    {
+      message: "Hi, I'm your personal stylist. What can I do for you?",
+      from: "bot",
+    },
+    {
+      message: "I have a winter holiday party to attend and need a standout outfit.",
+      from: "user",
+    },
+    {
+      message: "Sounds like fun! Do you want to go for a cozy look or something more glamorous?",
+      from: "bot",
+    },
+    {
+      message: "I want to strike a balance between cozy and stylish.",
+      from: "user",
+    },
+    {
+      message: "Great! Any preferences for colors or materials?",
+      from: "bot",
+    },
+    {
+      message: "I'm thinking of rich jewel tones and maybe some velvet.",
+      from: "user",
+    },
+    {
+      message: "Excellent choice! Search for {cozy,stylish,winter,holiday party,golden,velvet} ",
+      from: "bot",
+    },
+]
+
+conversation 10: 
+[
+    {
+      message: "Hi, I'm your personal stylist. What can I do for you?",
+      from: "bot",
+    },
+    {
+      message: "I'm planning a hiking trip and need suitable clothing and gear.",
+      from: "user",
+    },
+    {
+      message: "Sounds like a great adventure! What type of terrain and weather will you be facing?",
+      from: "bot",
+    },
+    {
+      message: "I'll be hiking through forests and mountains, so I need versatile and moisture-wicking clothing.",
+      from: "user",
+    },
+    {
+      message: "Got it! Any specific color preferences or safety considerations?",
+      from: "bot",
+    },
+    {
+      message: "I prefer earthy tones and high-visibility accents for safety.",
+      from: "user",
+    },
+    {
+      message: "Excellent! Look for {hiking,moisture-wicking,earthy tones,high-visibility} ",
+      from: "bot",
+    },
+]
